@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_names">
+        <item>Alarm</item>
+        <item>Bell</item>
+        <item>Bip</item>
+    </array>
+    <array name="array_values">
+        <item>alarm</item>
+        <item>bell</item>
+        <item>bip</item>
+    </array>
+
+</resources>
